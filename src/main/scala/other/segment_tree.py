@@ -1,5 +1,5 @@
 """
-    Creating the tree - O(n) time.
+    Creating the tree - O(n).
     Query and updates - O(log n).
 """
 
